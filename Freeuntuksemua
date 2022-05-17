@@ -1,0 +1,73 @@
+<script type="text/javascript">
+  window.location="https://saweria.co/phoenixtv";
+</script>
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" 
+#EXTM3U x-url-tvg=""
+"https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml"
+
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 1
+http://stariptv.org:8080/live/basma2022/123456/150160.ts
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 2
+https://demf1kf3itpt4.cloudfront.net/hls/TNT/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 3
+https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", SEAGAMES Event 1
+https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8|User-Agent=VThanhTivi
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", SEAGAMES Event 2
+https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8|User-Agent=VThanhTivi
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", SEAGAMES Event 3
+https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8|User-Agent=VThanhTivi
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
+http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://onetv.click/logo/vtv6hd.jpg" group-title="LIVE EVENT", VTV6 HD FPT SEAGAMES 
+http://103.125.191.32:8000/vtv6
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://onetv.click/logo/vtv6hd.jpg" group-title="LIVE EVENT", VTV6 HD VIETTEL SEAGAMES 
+http://103.214.9.53:9981/stream/channelid/2139728192?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://onetv.click/logo/vtv5hd.jpg" group-title="LIVE EVENT",VTV5 HD FPT SEAGAMES 
+http://103.125.191.32:8000/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://onetv.click/logo/vtv5hd.jpg" group-title="LIVE EVENT",VTV5 HD T2 SEAGAMES 
+http://cdn.socolacdn.online:8080/VTV5/mpegts
+#EXTINF:-1 tvg-id="vtv2hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 HD FPT SEAGAMES 
+http://103.125.191.32:8000/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 HD T2 SEAGAMES 
+http://cdn.socolacdn.online:8080/VTV2/mpegts
+#EXTINF:-1 tvg-id="vtv2hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV3 HD T2 SEAGAMES
+http://103.90.220.236/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ SEAGAMES 
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD SEAGAMES 
+http://103.178.234.181/ON_SPORTS/mpegts
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football FHD SEAGAMES 
+http://cdn.socolacdn.online:8080/onfootball-HD/mpegts
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/ON_Sports_News_-_Premium_by_VTVcab_logo_2022.png/revision/latest?cb=20220403051153&path-prefix=vi", On Sport News SEAGAMES 
+http://103.178.234.181/ON_SPORTS_NEWS/mpegts
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="LIVE EVENT" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf SEAGAMES 
+http://103.214.9.53:9981/stream/channelid/1425567769?profile=pass
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="htv1" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1 FPT SEAGAMES 
+http://103.125.191.32:8000/htv1
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="htvthethaohd" tvg-logo="https://vthanh.xyz/ic/56.png",HTV Thể thao HD FPT SEAGAMES 
+http://103.125.191.32:8000/htvtt
+
+
+
+######### INDONESIA #########
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="INDONESIA",RCTI (HD)
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+#EXTINF:-1 tvg-id="rcti.id" ch-number="1" tvg-name="RCTI" tvg-logo="http://cdn.roll.my.id/img/RCTI.png" group-title="INDONESIA",RCTI PLUS
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="INDONESIA",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
