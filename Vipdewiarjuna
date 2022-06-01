@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF : group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/Hnc5Z6wv/live-event-home-tv.png",LIVE INDONESIA VS BANGLADESH
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 
 
@@ -28,7 +29,7 @@ https://ktiptv.cf:443/48268/48268/25813
 https://ktiptv.cf:443/48268/48268/25825
 #EXTINF:-1 tvg-id="123" tvg-name="[MY] Awesome tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="[VIP] MALAYSIA",[MY] Awesome tv
 https://ktiptv.cf:443/48268/48268/25828
-#EXTINF:-1 tvg-id="122" tvg-name="[MY] TVS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvs-my.png" group-title="[VIP] MALAYSIA",[MY] TVS
+#EXTINF:-1 tvg-id="122" tvg-name="[MY] TVS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvs-my.png" group-title="[VIP] MALAYSIA",[MY] TV
 https://ktiptv.cf:443/48268/48268/25831
 #EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="[VIP] MALAYSIA",[SG] Channel 5
 https://ktiptv.cf:443/48268/48268/25833
@@ -668,3 +669,10 @@ https://ktiptv.cf:443/48268/48268/515139
 https://ktiptv.cf:443/48268/48268/515141
 #EXTINF:-1 tvg-id="6176" tvg-name="[TW] 博斯无限1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="[VIP]  Sport体育",[TW] 博斯无限1
 https://ktiptv.cf:443/48268/48268/515143
+
+
+
+
+
+
+
