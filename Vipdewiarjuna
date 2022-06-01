@@ -1,17 +1,7 @@
 #EXTM3U
 
-
-
-#EXTINF : group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/Hnc5Z6wv/live-event-home-tv.png",LIVE INDONESIA VS BANGLADESH
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/Hnc5Z6wv/live-event-home-tv.png",LIVE INDONESIA VS BANGLADESH
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="101" tvg-name=" [MY] TV1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[VIP] MALAYSIA", [MY] TV1
 https://ktiptv.cf:443/48268/48268/25808
