@@ -8,3 +8,34 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsJbCBr1/net-tv-b8499f.jpg" group-title="VIDIO TV",NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+
+
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg", MY:eGG Network
+http://rr.dens.tv/h/h22/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", Aniplus
+http://rr1.dens.tv/h/h02/index10.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg", Animax
+http://rr1.dens.tv/h/h144/index10.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", My Kidz HD
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", Hits
+http://rr1.dens.tv/h/h37/index1.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg", AXN East Asia
+http://rr1.dens.tv/h/h141/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg", ROCK Entertainment
+http://rr1.dens.tv/h/h16/index10.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK Extreme
+http://rr1.dens.tv/h/h15/index10.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg", KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg", GEM
+http://rr.dens.tv/h/h19/index10.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg", K+
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg", ONE
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg",MY:TVN HD
+http://rr1.dens.tv/h/h20/index.m3u8
+#EXTINF : group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", Tvn Movies
+http://rr1.dens.tv/h/h21/index.m3u8
+
